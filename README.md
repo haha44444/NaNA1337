@@ -11,8 +11,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=NaNA1337&color=ff69b4)
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaNA1337&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaNA1337&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats-lac-sigma-77.vercel.app/api?username=NaNA1337&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-lac-sigma-77.vercel.app/api/top-langs/?username=NaNA1337&layout=compact&theme=radical)
 
 ## Recent Activity (更新概率0%)
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=NaNA1337&theme=github)
